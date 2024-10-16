@@ -1,4 +1,5 @@
 # Lab3Web
+
 **1. Membuat Ordered List dengan menggunakan tag "ol" dan "li" untuk (list item).**
 ![Screenshot (63)](https://github.com/user-attachments/assets/0e6bdf72-7664-408b-a0b0-ad32b34a847c)
 
@@ -29,5 +30,11 @@
 # TUGAS
 
 **1. Buatlah form yang menampilkan dropdown dan listbox dengan multiple selection**
+![nomer1](https://github.com/user-attachments/assets/cc39d299-e618-41a5-8b5d-6283ddaacd2b)
 
 **2. Membuat listbox**
+![no1](https://github.com/user-attachments/assets/0d12efe7-7821-4b53-a76b-e6e6388a3a4c)
+![no1b](https://github.com/user-attachments/assets/e12785a2-c086-4744-9bfc-9e9336b6d371)
+
+JIka digabungkan
+![Screenshot (79)](https://github.com/user-attachments/assets/73f074b6-819b-4c76-bb0a-e73296bcc0ef)
